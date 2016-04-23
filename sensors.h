@@ -1,0 +1,2 @@
+void contactDetector();
+void motionDetector();

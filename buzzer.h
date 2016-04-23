@@ -1,0 +1,2 @@
+void triggerBuzzer();
+void updateBuzzer();
